@@ -6,14 +6,14 @@ This script automatically scans your article's content and generates a relevant 
 
 ## How to Install (60 seconds)
 
-**Step 1: Add the container**
+**Step 1:**
 
 Place this line of HTML code in your article where you want the widget to appear:
 
 `<div data-interaction-container></div>`
 
 
-**Step 2: Add the script**
+**Step 2:**
 
 Place this script tag just before the closing `</body>` tag on your page:
 `<script src="https://widget-handler.pages.dev/interaction_loader.js" async></script>`
